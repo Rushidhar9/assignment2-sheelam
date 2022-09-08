@@ -18,3 +18,7 @@ It is particularly rich in **archaeological and numismatic collections**.It has 
 8. Turn left onto Greams Rd
 9. Turn right onto College Bridge
 10. Continue onto Pantheon Rd upto 480m our destination will be on left side.
+* Marina Beach
+* Guindy National Park
+* Ashtalakshmi Temple
+***
