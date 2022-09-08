@@ -38,3 +38,28 @@ It is particularly rich in **archaeological and numismatic collections**.It has 
 > The two most powerful worriors are patience and time. *Leo Tolstoy*.
 
 > Lost time is never found again. *Benjamin Franklin*.
+
+***
+# CODING
+>What's the difference between SCSS and Sass?
+<https://stackoverflow.com/questions/5654447/whats-the-difference-between-scss-and-sass>
+
+~~~
+$o-grid-default-config: (
+    columns: 12,
+    gutter: 10px,
+    min-width: 240px,
+    max-width: 1330px,
+    layouts: (
+        S:  370px,  // ≥20px columns
+        M:  610px,  // ≥40px columns
+        L:  850px,  // ≥60px columns
+        XL: 1090px  // ≥80px columns
+    ),
+    fluid: true,
+    debug: false,
+    fixed-layout: M,
+    enhanced-experience: true
+);
+~~~
+<https://css-tricks.com/snippets/sass/deep-getset-maps/>
