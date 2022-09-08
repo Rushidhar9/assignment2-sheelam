@@ -32,3 +32,9 @@ It is particularly rich in **archaeological and numismatic collections**.It has 
 | NALGONDA      | NAGARJUNASAGAR | 3 HRS     |
 | KOTHAGUDEM    | BHADRACHALAM   | 5 HRS     |
 | HYDERABAD     | RAMOJI FILM CITY| 8 HRS    |
+***
+# QUOTE
+
+> The two most powerful worriors are patience and time. *Leo Tolstoy*.
+
+> Lost time is never found again. *Benjamin Franklin*.
