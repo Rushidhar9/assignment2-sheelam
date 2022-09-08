@@ -24,3 +24,11 @@ It is particularly rich in **archaeological and numismatic collections**.It has 
 ***
 [Rushidhar Bio](AboutMe.md)
 
+***
+# CITIES TO VIST
+| CITY          | LOCATION      | TIME        |
+| --------------|--------------|------------ |
+| MULUGU        | RAMAPPA TEMPLE| 3 HRS      |
+| NALGONDA      | NAGARJUNASAGAR | 3 HRS     |
+| KOTHAGUDEM    | BHADRACHALAM   | 5 HRS     |
+| HYDERABAD     | RAMOJI FILM CITY| 8 HRS    |
